@@ -111,3 +111,10 @@ If agent mode is enabled, `main.py` loads a PyTorch checkpoint once and uses the
 
 This is not trying to be a full Pokémon clone. It is a focused playable demo that’s built to be readable, modifiable, and good for learning: a battle simulator, an RL agent training loop, and a Pygame game layer glued together cleanly.
 
+---
+
+## Author
+Pablo Caparrós Calle  
+GitHub: @PCC23  
+
+
